@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.vscode
+data
+**/nohup.out
+.DS_Store
+corpus
